@@ -1,2 +1,2 @@
-# Basic-Console-Games
-Basic console games while studying in SoftUni.
+# Basic-Games
+Basic games, using C# and JS while studying in SoftUni.
