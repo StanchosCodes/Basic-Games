@@ -12,4 +12,5 @@ You are a wizard now, so it means you can cast a spell. In order to do it you ha
 Every killed bug gives you 2000 points. But for every 5 killed bugs the game speed increases.
 On the top of the screen, you can see your points and the count of the killed bugs.
 Although if you get hit you will have to reload the page and start again.
-The most important thing is: HAVE FUN!
+
+# The most important thing is: HAVE FUN!
